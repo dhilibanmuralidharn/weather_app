@@ -1,0 +1,13 @@
+.foreCastSection{
+    width: 90vw;
+}
+
+.hourtrack {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.progress {
+    width: 70%;
+}
